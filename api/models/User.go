@@ -3,10 +3,10 @@ package models
 import (
 	"errors"
 	"html"
+	"log"
 	"os"
 	"strings"
 	"time"
-	"log"
 
 	"github.com/alisyihab/learn-go/api/security"
 	"github.com/badoux/checkmail"
